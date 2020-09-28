@@ -1,4 +1,4 @@
-# Pokémon Builder
+# Pokédex Builder
 In this challenge you will be building a Pokedex that will support the following features:
 1. Displaying a list of Pokémon
 2. Filtering a list of Pokémon
