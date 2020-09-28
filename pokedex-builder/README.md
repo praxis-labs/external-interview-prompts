@@ -6,9 +6,9 @@ In this challenge you will be building a Pokedex that will support the following
 4. Adding a new Pokémon
 5. Deleting an existing Pokémon
 
-This should be built using React. You should not use any packages for displaying, sorting, adding or deleting Pokémon.
+This should be built using React. You should not use any packages for displaying, sorting, adding or deleting Pokémon. This challenge should take approximately 2-3 hours.
 
-Note: While there are no design requirements for this challenge, we encourage you to channel your creativity to create a beautiful UI/UX.
+Note: While there are no design requirements for this challenge, we encourage you to channel your creativity to create a beautiful UI/UX. You should make design considerations as if this were meant to be a production grade application.
 
 ## Displaying
 As a user, I should be able to see a list of Pokémon with the following attribute:
@@ -41,4 +41,7 @@ As a user, I should be able to add a new Pokémon with the following attributes:
 
 ## Deleting
 As a user, I should be able to delete a Pokémon from the list.
+
+## Questions
+If you have questions during the challenge, please reach out to the hiring manager that sent this to you originally.
 
