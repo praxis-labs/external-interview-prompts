@@ -13,7 +13,7 @@ Note: While there are no design requirements for this challenge, we encourage yo
 Please refer to data set [here](pokedex.json).
 
 ## Displaying
-As a user, I should be able to see a list of Pokémon with the following attribute:
+As a user, I should be able to see a list of Pokémon with the following attributes:
 1. ID
 2. English Name
 3. Type
