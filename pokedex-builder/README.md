@@ -10,7 +10,7 @@ This should be built using React. You should not use any packages for displaying
 
 Note: While there are no design requirements for this challenge, we encourage you to channel your creativity to create a beautiful UI/UX. You should make design considerations as if this were meant to be a production grade application.
 
-Please refer to data set [here](/pokedex.json).
+Please refer to data set [here](pokedex.json).
 
 ## Displaying
 As a user, I should be able to see a list of Pokémon with the following attribute:
