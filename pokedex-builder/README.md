@@ -24,10 +24,8 @@ As a user, I should be able to see a list of Pokémon with the following attribu
 ## Sorting
 As a user, I should be able to sort the list of Pokémon by the following attributes:
 1. English Name
-2. Type
-3. HP
-4. Attack
-5. Defense
+2. Attack
+3. Defense
 
 ## Searching
 As a user, I should be able to filter the list of Pokémon by their name.
